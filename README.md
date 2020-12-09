@@ -64,6 +64,7 @@ If you use this code for your research, please cite our papers.
 
 ## Related Projects
 **[CycleGAN-Torch](https://github.com/junyanz/CycleGAN) 
+**[CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
 
 
