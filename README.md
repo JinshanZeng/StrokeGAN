@@ -63,7 +63,6 @@ If you use this code for your research, please cite our papers.
 
 
 ## Related Projects
-**[contrastive-unpaired-translation](https://github.com/taesungp/contrastive-unpaired-translation) (CUT)**<br>
 **[CycleGAN-Torch](https://github.com/junyanz/CycleGAN) 
 
 
