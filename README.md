@@ -42,7 +42,7 @@ python train.py --dataroot ./datasets/data --name data_cyclegan --model cycle_ga
 #!./scripts/test_cyclegan.sh
 python test.py --dataroot ./datasets/data --name data_cyclegan --model cycle_gan
 ```
-- The test results will be saved to a html file here: `./results/maps_cyclegan/latest_test/index.html`.
+
 
 
 ## [Datasets](docs/datasets.md)
