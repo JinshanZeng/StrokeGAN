@@ -46,7 +46,7 @@ python test.py --dataroot ./datasets/data --name data_cyclegan --model cycle_gan
 
 
 ## [Datasets](docs/datasets.md)
-Send email to us or create your own datasets.
+https://github.com/JinshanZeng/Stroke_Based_Chinese_Character_Generation_Dataset
 
 ## [Training/Test Tips](docs/tips.md)
 Best practice for training and testing your models.
@@ -58,7 +58,7 @@ Before you post a new question, please first look at the above Q & A and existin
 ## Citation
 If you use this code for your research, please cite our papers.
 ```
-
+https://arxiv.org/abs/2012.08687
 ```
 
 
